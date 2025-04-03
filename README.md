@@ -56,7 +56,7 @@ Hello Professor! My name is Wenli, a first-year health data science master stude
 
 **Preferred Topics:** I would love to see topics covering skill sets relevant to a software engineer job, such as object-oriented programming, SQL, and web frameworks.  
 
-**Music** I recommend *The Scientist* by Coldplay. The song has a beautiful melody and deep, introspective lyrics that resonate with me. It’s a timeless piece that blends emotion with a soothing instrumental arrangement. Here’s a link to the MV: [The Scientist - Coldplay](https://www.youtube.com/watch?v=RB-RcX5DS5A).  
+**Music** I personally recommend *The Scientist* by Coldplay. The song has a beautiful melody and deep, introspective lyrics that resonate with me. It’s a timeless piece that blends emotion with a soothing instrumental arrangement. Here’s a link to the MV: [The Scientist - Coldplay](https://www.youtube.com/watch?v=RB-RcX5DS5A).  
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
