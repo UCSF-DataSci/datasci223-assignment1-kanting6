@@ -48,12 +48,15 @@ This assignment will help you practice:
 - It includes starter code and automated tests that will run when you push your changes
 - Clone the repository to your local machine to begin working on the assignment
 
-### Part 1: Update this README.md
-Replace the "Part 1" section with:
-- A brief introduction about yourself (first name only)
-- What you're hoping to get out of this course
-- Topics you would like to see included
-- A musical recommendation and a link to something about it (song, album, artist)
+Part 1: My Introduction: 
+
+Hello Professor! My name is Wenli, a first-year health data science master student. I’m passionate about leveraging technology for healthcare solutions and aspire to build an app for online personalized nutritional counseling.  
+
+**Course Goals:** Through this course, I hope to master Python, not just for data analysis but also for software development. I want to write efficient, well-structured code and gain hands-on experience with real-world applications.  
+
+**Preferred Topics:** I would love to see topics covering skill sets relevant to a software engineer job, such as object-oriented programming, SQL, and web frameworks.  
+
+**Music** I recommend *The Scientist* by Coldplay. The song has a beautiful melody and deep, introspective lyrics that resonate with me. It’s a timeless piece that blends emotion with a soothing instrumental arrangement. Here’s a link to the MV: [The Scientist - Coldplay](https://www.youtube.com/watch?v=RB-RcX5DS5A).  
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
